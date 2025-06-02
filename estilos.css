@@ -8,11 +8,38 @@ body{
     padding: 6px;
     
     font-family: Verdana, arial, sans-serif;
+
+    background-color: rgb(237,236,233)
 }
 header div{
-    background-color: red;
 }
-
+header div ul{
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    padding: 0;
+}
+header div ul li{
+    list-style: none;
+}
+header div ul li a{
+        color: rgb(239,113,32);
+        font-size: 18px;
+        font-weight: 800;
+}
 img{
     width: 100%;
+}
+
+h1{
+    color: rgb(119,85,72);
+}
+/* ----------------- */
+main{
+    
+}
+h3{
+    background-color: rgb(119,85,72);
 }
