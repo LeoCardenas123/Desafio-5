@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    background-color: red;
+    margin: 0;
+}
+img{
+    width: 100%;
+}
