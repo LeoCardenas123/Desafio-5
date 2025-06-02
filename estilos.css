@@ -4,10 +4,15 @@
 body{
     width: 100%;
     height: auto;
-    min-height: 100vh;
-    background-color: red;
     margin: 0;
+    padding: 6px;
+    
+    font-family: Verdana, arial, sans-serif;
 }
+header div{
+    background-color: red;
+}
+
 img{
     width: 100%;
 }
