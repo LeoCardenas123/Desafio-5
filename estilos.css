@@ -47,9 +47,14 @@ h3{
     background-color: rgb(119,85,72);
     color: rgb(225,212,208);
 }
-section ul li, section ul li a{
+section ul li, section p{
     color: rgb(119,85,72);
 }
 section ul li a{
+    font-weight: bold;
+    color: rgb(238,111,22);
+}
+
+#instalaciones ul li:nth-child(1){
     font-weight: bold;
 }
