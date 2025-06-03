@@ -47,7 +47,7 @@ h3{
     background-color: rgb(119,85,72);
     color: rgb(225,212,208);
 }
-section ul li, section p{
+section ul li, section ol li, section p{
     color: rgb(119,85,72);
 }
 section ul li a{
@@ -57,4 +57,24 @@ section ul li a{
 
 #instalaciones ul li:nth-child(1){
     font-weight: bold;
+}
+
+#alquileres ul li:nth-child(4) a{ 
+    color: rgb(119,85,72);
+    text-decoration: none;
+    font-weight: 300;
+}
+
+#notas-diario p{
+    font-weight: bold;
+}
+#notas-diario ul li:nth-child(1) a{
+    color: rgb(86,167,195);
+}
+#notas-diario ul li:nth-child(2) a{
+    color: rgb(239,91,83);
+}
+
+#por-que-elegirnos h3{ 
+    color: rgb(208,174,58);
 }
