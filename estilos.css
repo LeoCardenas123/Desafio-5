@@ -78,3 +78,14 @@ section ul li a{
 #por-que-elegirnos h3{ 
     color: rgb(208,174,58);
 }
+
+/* ------------------- */
+footer{
+    width: 100%;
+    color: rgba(255, 255, 0, 0.863);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
